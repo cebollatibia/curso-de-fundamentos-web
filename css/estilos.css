@@ -1,0 +1,27 @@
+#logo {
+    border-radius: 50%;
+    width: 100px; 
+    height: 100px;
+}
+body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSales\ on\ DeviantArt.jfif) ;
+    background-size: cover;
+}
+header{
+    color:#000000;
+}
+li{
+    font-size: 30px;
+}
+#encabezado {
+    font-size: 40px;
+    align-items: center;
+    display:flex;
+}
+.contenido {
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.397);
+    border-radius: 16px;
+}
+.elementos {
+    text-align: center;
+}
