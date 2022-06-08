@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 #logo {
     border-radius: 50%;
     width: 100px; 
@@ -5,23 +8,22 @@
 }
 body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSales\ on\ DeviantArt.jfif) ;
     background-size: cover;
-}
-header{
-    color:#000000;
+    color: black;
+    font-family: 'Oswald';
 }
 li{
     font-size: 30px;
 }
 #encabezado {
     font-size: 40px;
-    align-items: center;
     display:flex;
+    font-family: 'Press Start 2P';
 }
 .contenido {
     font-size: 20px;
     background-color: rgba(255, 255, 255, 0.397);
     border-radius: 16px;
-}
-.elementos {
+    padding: .3cm;
+    margin: 18px;
     text-align: center;
 }
