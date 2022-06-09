@@ -5,25 +5,28 @@
     border-radius: 50%;
     width: 100px; 
     height: 100px;
+    border-style:ridge;
+    border-color: black;
 }
 body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSales\ on\ DeviantArt.jfif) ;
     background-size: cover;
-    color: black;
+    color:rgb(12, 94, 4);
     font-family: 'Oswald';
 }
 li{
     font-size: 30px;
 }
 #encabezado {
-    font-size: 40px;
+    font-size: 30px;
     display:flex;
     font-family: 'Press Start 2P';
 }
 .contenido {
     font-size: 20px;
     background-color: rgba(255, 255, 255, 0.397);
-    border-radius: 16px;
+    border-radius: .5cm;
     padding: .3cm;
     margin: 18px;
     text-align: center;
 }
+a{font-size: 800%;}
