@@ -10,7 +10,7 @@
 }
 body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSales\ on\ DeviantArt.jfif) ;
     background-size: cover;
-    color:rgb(12, 94, 4);
+    color:rgb(51, 80, 109);
     font-family: 'Oswald';
 }
 li{
@@ -29,4 +29,8 @@ li{
     margin: 18px;
     text-align: center;
 }
-a{font-size: 800%;}
+a{font-size: 330%;}
+
+#titulo-abreviado{
+    display: none;
+}
