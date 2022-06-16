@@ -1,0 +1,22 @@
+@media screen and ( max-width: 735px) {
+    #titulo-completo {
+        display: none;
+    }
+    #titulo-abreviado {
+        display: block;
+    }
+}
+@media  screen and ( max-width: 403px) {
+    .remplazable { 
+        display: none;
+    }
+}
+@media  screen and (max-width: 375px) {
+    body {
+        margin-right: 16px;
+        font-size: 50px;
+    }
+    .elementos {
+        font-size: 27px;
+    }
+}
