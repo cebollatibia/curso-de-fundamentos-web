@@ -10,12 +10,10 @@
 }
 body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSales\ on\ DeviantArt.jfif) ;
     background-size: cover;
-    color:rgb(51, 80, 109);
+    color:black;
     font-family: 'Oswald';
 }
-li{
-    font-size: 30px;
-}
+
 #encabezado {
     font-size: 30px;
     display:flex;
@@ -33,4 +31,43 @@ a{font-size: 330%;}
 
 #titulo-abreviado{
     display: none;
+}
+button {
+    display: inline-flexbox;
+    font-size: 20px;
+    background-color:rgba(15, 170, 10, 0.397) ;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 20px;
+    border-style: double;
+}
+#mision1avreviado {
+    display:none;
+}
+#mision2avreviado {
+    display:none;
+}
+#mision3areviado {
+    display:none;
+}
+#mision4avreviado {
+    display:none;
+}
+#mision5avreviado {
+    display:none;
+}
+#mision6avreviado {
+    display:none;
+}
+#mision7avreviado {
+    display:none;
+}
+#mision8avreviado {
+    display:none;
+}
+#mision9avreviado {
+    display:none;
+}
+#mision10avreviado {
+    display:none;
 }
