@@ -12,6 +12,7 @@ body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSale
     background-size: cover;
     color:black;
     font-family: 'Oswald';
+    cursor: default;
 }
 
 #encabezado {
@@ -71,3 +72,4 @@ button {
 #mision10avreviado {
     display:none;
 }
+button {cursor:pointer;}
