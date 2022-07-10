@@ -36,11 +36,12 @@ a{font-size: 330%;}
 button {
     display: inline-flexbox;
     font-size: 20px;
-    background-color:rgba(15, 170, 10, 0.397) ;
+    background-color:rgba(10, 111, 170, 0.623) ;
     border-radius: 25px;
     padding: 5px;
     margin: 20px;
     border-style: double;
+    cursor:pointer;
 }
 #mision1avreviado {
     display:none;
@@ -72,4 +73,3 @@ button {
 #mision10avreviado {
     display:none;
 }
-button {cursor:pointer;}
