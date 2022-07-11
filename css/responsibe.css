@@ -22,6 +22,9 @@
     #imagen_de_mision {
         width: 200px;
     }
+    div .imagen {
+        width: 200px;
+    }
 }
 @media screen and (min-width: 1026px) {
     body {
