@@ -1,0 +1,4 @@
+repositorio: https://github.com/cebollatibia/curso-de-fundamentos-web
+pagina: https://cebollatibia.github.io/curso-de-fundamentos-web/
+repositorio base de datos: https://github.com/cebollatibia/curso-api
+Base de datos raw: https://raw.githubusercontent.com/cebollatibia/curso-api/master/datos.json
