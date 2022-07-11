@@ -3,6 +3,7 @@ const uri = "https://raw.githubusercontent.com/cebollatibia/curso-api/master/";
 const el_lista = document.getElementById("lista_misiones");
 const el_caja = document.getElementById("imagen_de_mision");
 const el_titulo = document.querySelector("div#lista_misiones h2");
+const el_datos = document.getElementById("mision1")
 
 fetch(uri + "datos.json").then(function(respuesta) {
     return respuesta.json()
@@ -16,7 +17,8 @@ fetch(uri + "datos.json").then(function(respuesta) {
        nuevo_botton.addEventListener("click", function() {
         el_caja.src = uri + datos[i].imagen;
         el_titulo.innerHTML = datos[i].nombre;
-       })
+        el_datos.innerHTML = datos[i].informacion;
+       });
     }
 }).catch(function(error) {
      console.log(error)
