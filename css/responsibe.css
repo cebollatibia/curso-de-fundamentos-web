@@ -19,6 +19,9 @@
     .elementos {
         font-size: 27px;
     }
+    img #imagen_de_mision {
+        width: 100px;
+    }
 }
 @media screen and (min-width: 1026px) {
     body {
