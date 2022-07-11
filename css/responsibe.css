@@ -31,68 +31,9 @@
         font-size: 80px;
     }
 }
-@media screen and ( max-width: 943px){
-    #mision1completa {
-        display: none;
+
+@media screen and ( max-width: 361px) {
+    #titulo-abreviado {display:none;
     }
-    #mision2completa { 
-        display: none;
-    }
-    #mision3completa {
-        display: none;
-    }
-    #mision4completa {
-        display: none;
-    }
-    #mision4completa {
-        display: none;
-    }
-    #mision5completa {
-        display: none;
-    }
-    #mision6completa {
-        display: none;
-    }
-    #mision7completa {
-        display: none;
-    }
-    #mision8completa {
-        display: none;
-    }
-    #mision9completa {
-        display: none;
-    }
-    #mision10completa {
-        display: none;
-    }
-    #mision1avreviado {
-        display:block;
-    }
-    #mision2avreviado {
-        display: block;
-    }
-    #mision3avreviado {
-        display: block;
-    }
-    #mision4avreviado {
-        display: block;
-    }
-    #mision5avreviado {
-        display: block;
-    }
-    #mision6avreviado {
-        display: block;
-    }
-    #mision7avreviado {
-        display: block;
-    }
-    #mision8avreviado {
-        display: block;
-    }
-    #mision9avreviado {
-        display: block;
-    }
-    #mision10avreviado {
-        display: block;
-    }
+    #titulo_pequeño {display: block;}
 }
