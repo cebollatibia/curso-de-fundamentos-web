@@ -28,6 +28,8 @@ body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSale
     margin: 18px;
     text-align: center;
 }
+.contenido img  {width: 300px;
+}
 a{font-size: 330%;}
 
 #titulo-abreviado{
