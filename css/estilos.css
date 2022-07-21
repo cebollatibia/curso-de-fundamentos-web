@@ -16,8 +16,7 @@ body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSale
 }
 
 #encabezado {
-    font-size: 30px;
-    display:flex;
+    font-size: 15px;
     font-family: 'Press Start 2P';
 }
 .contenido {
@@ -26,7 +25,6 @@ body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSale
     border-radius: .5cm;
     padding: .3cm;
     margin: 18px;
-    text-align: center;
 }
 .contenido img  {width: 300px;
 }
@@ -36,7 +34,7 @@ a{font-size: 330%;}
     display: none;
 }
 button {
-    display: inline-flexbox;
+    display: block;
     font-size: 20px;
     background-color:rgba(10, 111, 170, 0.623) ;
     border-radius: 25px;
@@ -45,33 +43,9 @@ button {
     border-style: double;
     cursor:pointer;
 }
-#mision1avreviado {
-    display:none;
+#info{
+display:flex ;
 }
-#mision2avreviado {
-    display:none;
-}
-#mision3areviado {
-    display:none;
-}
-#mision4avreviado {
-    display:none;
-}
-#mision5avreviado {
-    display:none;
-}
-#mision6avreviado {
-    display:none;
-}
-#mision7avreviado {
-    display:none;
-}
-#mision8avreviado {
-    display:none;
-}
-#mision9avreviado {
-    display:none;
-}
-#mision10avreviado {
-    display:none;
+#fin {
+     text-align: center;
 }

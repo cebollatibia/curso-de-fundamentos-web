@@ -1,6 +1,6 @@
 const uri = "https://raw.githubusercontent.com/cebollatibia/curso-api/master/";
 // encontrar elementos del html
-const el_lista = document.getElementById("lista_misiones");
+const el_lista = document.getElementById("lista");
 const el_caja = document.getElementById("imagen_de_mision");
 const el_titulo = document.querySelector("div#lista_misiones h2");
 const el_datos = document.getElementById("mision1")
