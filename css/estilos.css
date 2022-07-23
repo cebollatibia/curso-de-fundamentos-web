@@ -18,6 +18,7 @@ body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSale
 #encabezado {
     font-size: 15px;
     font-family: 'Press Start 2P';
+    display: flex;
 }
 .contenido {
     font-size: 20px;
@@ -48,4 +49,37 @@ display:flex ;
 }
 #fin {
      text-align: center;
+}
+#armas1{
+    text-align: left;
+}
+#armas2 {
+    text-align: center;
+}
+#armas3 {
+    text-align: right;
+}
+#armas4 {
+    text-align: left;
+}
+#armas5 {
+    text-align: center;
+}
+#armas6 {
+    text-align: right;
+}
+#armas7 {
+    text-align: left;
+}
+#armas8 {
+    text-align: center;
+}
+#armas9 {
+    text-align:right ;
+}
+#armas10 {
+    text-align: left;
+}
+#armas11 {
+    text-align: center;
 }
