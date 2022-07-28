@@ -41,7 +41,7 @@ button {
     border-radius: 25px;
     padding: 5px;
     margin: 20px;
-    border-style: double;
+    border-style: groove;
     cursor:pointer;
 }
 #info{
@@ -52,4 +52,7 @@ display:flex ;
 }
 #armas {
     display: flex;
+}
+#armas div div {
+    margin: 10px;
 }

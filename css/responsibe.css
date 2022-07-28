@@ -37,3 +37,13 @@
     }
     #titulo_pequeño {display: block;}
 }
+@media screen and ( max-width:1180px) { 
+    .contenido img {
+        width: 150px;
+    }
+}
+@media screen and ( max-width:667px) { 
+    #armas { 
+        display: list-item;
+    }
+}
