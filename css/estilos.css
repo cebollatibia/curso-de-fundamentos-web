@@ -27,7 +27,7 @@ body{ background-image:url(../images/Master\ Chief\ -\ Halo\ Infinite\ by\ VSale
     padding: .3cm;
     margin: 18px;
 }
-.contenido img  {width: 300px;
+.contenido img  {width: 200px;
 }
 a{font-size: 330%;}
 
@@ -50,36 +50,6 @@ display:flex ;
 #fin {
      text-align: center;
 }
-#armas1{
-    text-align: left;
-}
-#armas2 {
-    text-align: center;
-}
-#armas3 {
-    text-align: right;
-}
-#armas4 {
-    text-align: left;
-}
-#armas5 {
-    text-align: center;
-}
-#armas6 {
-    text-align: right;
-}
-#armas7 {
-    text-align: left;
-}
-#armas8 {
-    text-align: center;
-}
-#armas9 {
-    text-align:right ;
-}
-#armas10 {
-    text-align: left;
-}
-#armas11 {
-    text-align: center;
+#armas {
+    display: flex;
 }
